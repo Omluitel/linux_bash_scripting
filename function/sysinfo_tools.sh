@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# Script Name: sysinfo_tool.sh
+# Description: This script performs XYZ tasks.
+# Author: Om Luitel
+# Date Created: 2023-12-30
+# Last Modified: 2023-12-30
+
+# ----- Start of script -----
+
+# Your script code goes here...
+
+
 show_disk_info() {
 	clear
 	echo "Disk Information:"
